@@ -23,4 +23,6 @@ To run the password generator, you need a web browser.
 1. Clone the repository:
 
    ```bash
-
+https://github.com/ChinazaO1/password-generator.git
+## License
+MIT License
